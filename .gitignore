@@ -1,7 +1,0 @@
-.*.swp
-/*.egg-info/
-/.tox/
-/dist/
-/MANIFEST
-__pycache__/
-*.pyc
